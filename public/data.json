@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "¿Qué país es el anfitrión de la Copa América 2024?",
+        "answers": [
+            "Estados Unidos",
+            "Argentina",
+            "Uruguay",
+            "Chile"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "¿Cuántos equipos participan en la Copa América 2024?",
+        "answers": [
+            "10",
+            "12",
+            "16",
+            "18"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "¿En qué estadio se jugará la final de la Copa América 2024?",
+        "answers": [
+            "Maracaná",
+            "Hard Rock Café Stadium",
+            "Centenario",
+            "Morumbi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "¿Cuál es el premio en dinero para el equipo ganador de la Copa América 2024?",
+        "answers": [
+            "10 millones de dólares",
+            "15 millones de dólares",
+            "20 millones de dólares",
+            "25 millones de dólares"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "¿Qué tecnología se utilizará para ayudar a los árbitros en la Copa América 2024?",
+        "answers": [
+            "VAR",
+            "Ojo de Halcón",
+            "Línea de Gol",
+            "Ninguna"
+        ],
+        "correctAnswer": 0
+    }
+]
