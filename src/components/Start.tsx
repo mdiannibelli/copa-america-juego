@@ -9,7 +9,7 @@ const Start = () => {
     };
     return (
         <div className='mt-4'>
-            <button onClick={handleClick} className='font-medium text-4xl border-[1px] border-blue-700 rounded-md py-4 px-8 hover:bg-blue-700 duration-300'>Click para empezar</button>
+            <button onClick={handleClick} className='font-medium text-xl md:text-4xl border-[1px] border-blue-700 rounded-md py-4 px-8 hover:bg-blue-700 duration-300'>Click para empezar</button>
         </div>
     );
 };

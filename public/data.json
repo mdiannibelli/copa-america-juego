@@ -1,57 +1,277 @@
 [
     {
         "id": 1,
-        "question": "¿Qué país es el anfitrión de la Copa América 2024?",
+        "question": "¿Cuál país ha ganado más Copas América?",
         "answers": [
-            "Estados Unidos",
             "Argentina",
+            "Brasil",
             "Uruguay",
             "Chile"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
     },
     {
         "id": 2,
-        "question": "¿Cuántos equipos participan en la Copa América 2024?",
+        "question": "¿Qué jugador es el máximo goleador histórico de la Copa América?",
         "answers": [
-            "10",
-            "12",
-            "16",
-            "18"
+            "Lionel Messi",
+            "Pelé",
+            "Gabriel Batistuta",
+            "Zizinho"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 3
     },
     {
         "id": 3,
-        "question": "¿En qué estadio se jugará la final de la Copa América 2024?",
+        "question": "¿En qué año se celebró la primera Copa América?",
         "answers": [
-            "Maracaná",
-            "Hard Rock Café Stadium",
-            "Centenario",
-            "Morumbi"
+            "1910",
+            "1916",
+            "1920",
+            "1924"
         ],
         "correctAnswer": 1
     },
     {
         "id": 4,
-        "question": "¿Cuál es el premio en dinero para el equipo ganador de la Copa América 2024?",
+        "question": "¿Qué país ganó la Copa América 2021?",
         "answers": [
-            "10 millones de dólares",
-            "15 millones de dólares",
-            "20 millones de dólares",
-            "25 millones de dólares"
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Colombia"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "¿Cuál es el país anfitrión de la Copa América 2024?",
+        "answers": [
+            "Argentina",
+            "Estados Unidos",
+            "Brasil",
+            "Uruguay"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "¿Cuántas selecciones participaron en la Copa América 2024?",
+        "answers": [
+            "10",
+            "12",
+            "14",
+            "16"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 7,
+        "question": "¿Cuál de estos países nunca ha ganado una Copa América?",
+        "answers": [
+            "Perú",
+            "Bolivia",
+            "Venezuela",
+            "Paraguay"
         ],
         "correctAnswer": 2
     },
     {
-        "id": 5,
-        "question": "¿Qué tecnología se utilizará para ayudar a los árbitros en la Copa América 2024?",
+        "id": 8,
+        "question": "¿Quién fue el máximo goleador de la Copa América 2019?",
         "answers": [
-            "VAR",
-            "Ojo de Halcón",
-            "Línea de Gol",
-            "Ninguna"
+            "Gabriel Jesus",
+            "Paolo Guerrero",
+            "Lionel Messi",
+            "Luis Suárez"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 9,
+        "question": "¿Qué ciudad fue una de las sedes de la Copa América 2024?",
+        "answers": [
+            "Nueva York",
+            "Buenos Aires",
+            "Lima",
+            "Santiago"
         ],
         "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "¿Cuál fue el país ganador de la Copa América Centenario en 2016?",
+        "answers": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "México"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "¿Cuántos títulos ha ganado Argentina en la Copa América hasta 2024?",
+        "answers": [
+            "12",
+            "16",
+            "15",
+            "8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "question": "¿Quién fue nombrado el mejor jugador de la Copa América 2021?",
+        "answers": [
+            "Neymar",
+            "Lionel Messi",
+            "Luis Suárez",
+            "Ángel Di María"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "¿Qué equipo fue subcampeón en la Copa América 2021?",
+        "answers": [
+            "Chile",
+            "Colombia",
+            "Uruguay",
+            "Brasil"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "¿Cuántas veces ha ganado Brasil la Copa América?",
+        "answers": [
+            "5",
+            "9",
+            "12",
+            "7"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "question": "¿Cuál país fue el anfitrión de la Copa América 2019?",
+        "answers": [
+            "Chile",
+            "Argentina",
+            "Brasil",
+            "Perú"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 16,
+        "question": "¿En qué país se jugaron las primeras ediciones de la Copa América?",
+        "answers": [
+            "Brasil",
+            "Uruguay",
+            "Argentina",
+            "Chile"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "¿Qué jugador es el máximo goleador de Argentina en la historia de la Copa América?",
+        "answers": [
+            "Diego Maradona",
+            "Gabriel Batistuta",
+            "Lionel Messi",
+            "Hernán Crespo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "question": "¿Qué país ha sido invitado a participar en la Copa América en más ocasiones?",
+        "answers": [
+            "Japón",
+            "México",
+            "Estados Unidos",
+            "Costa Rica"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "question": "¿Qué selección ganó la Copa América 1999?",
+        "answers": [
+            "Argentina",
+            "Brasil",
+            "Chile",
+            "Colombia"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 20,
+        "question": "¿Cuál fue el primer país en ganar la Copa América consecutivamente?",
+        "answers": [
+            "Uruguay",
+            "Argentina",
+            "Brasil",
+            "Paraguay"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "¿Quién fue el entrenador de Brasil en la Copa América 2019?",
+        "answers": [
+            "Tite",
+            "Dunga",
+            "Luiz Felipe Scolari",
+            "Mano Menezes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "¿Qué selección fue campeona de la Copa América en 2001?",
+        "answers": [
+            "Argentina",
+            "Brasil",
+            "Colombia",
+            "Uruguay"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "question": "¿Cuál de estos jugadores no ha ganado una Copa América?",
+        "answers": [
+            "Diego Maradona",
+            "Pelé",
+            "Lionel Messi",
+            "Ronaldinho"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "¿Qué país fue el campeón de la Copa América 2007?",
+        "answers": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Paraguay"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "¿Qué estadio fue la sede de la final de la Copa América 2024?",
+        "answers": [
+            "Mercedes-Benz Stadium",
+            "Chase Stadium",
+            "HardRock Stadium",
+            "MetLife Stadium"
+        ],
+        "correctAnswer": 2
     }
 ]
