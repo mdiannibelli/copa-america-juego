@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'copa-america': 'url("public/background-copa-america.jpeg")',
-        'copa-america2': 'url("public/background-copa-america-2.webp")'
+        'copa-america': 'url("/public/background-copa-america.jpeg")',
+        'copa-america2': 'url("/public/background-copa-america-2.webp")'
       }
     },
   },
